@@ -15,7 +15,7 @@ public class RankingActivity extends AppCompatActivity {
 
         TextView textView = (TextView)findViewById(R.id.textView);
 
-        textView.setText("Test Mudei agora");
+        textView.setText("Test Mudei agora feature");
     }
 
 
